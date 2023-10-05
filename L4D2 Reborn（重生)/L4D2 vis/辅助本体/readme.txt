@@ -1,0 +1,3 @@
+-run MD5 Changer.exe on injector every once in a while to stay safe
+-make sure to not run reshade/enb when injected
+-nonsteam version doesnt support real anti-obs but only its visuals
